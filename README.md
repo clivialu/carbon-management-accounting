@@ -5,7 +5,7 @@ This repository contains supporting materials and documentation for the paper *â
 ## Paper
 
 - **Title:** Inter- and Intra-Organizational Stakeholder Arrangements in Carbon Management Accounting  
-- **Authors:** F. Mahmoudian, Jessie Lu, D. Yu, J. A. Nazari, & I. M. Herremans  
+- **Authors:** F. Mahmoudian, J. Lu, D. Yu, J. A. Nazari, & I. M. Herremans  
 - **Journal:** *The British Accounting Review* (2021)  
 - **DOI:** [https://doi.org/10.1016/j.bar.2020.100933](https://doi.org/10.1016/j.bar.2020.100933)  
 - **Ranking / Impact:** ABDC A* Â· Impact Factor 5.577
