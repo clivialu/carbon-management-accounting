@@ -17,7 +17,7 @@ This study explores how collaboration among stakeholders inside and outside orga
 We find that both internal coordination (e.g., between sustainability and finance teams) and external partnerships (e.g., with regulators, suppliers, or industry groups) shape the effectiveness of carbon management accounting systems.  
 Firms that build structured stakeholder arrangements and share sustainability knowledge across boundaries tend to achieve more consistent, strategic, and transparent approaches to carbon management.
 
-## Paper Highlights: 
+## Paper Highlight: 
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
 | **1** | Companies need hard evidence that working with partners really lowers emissions. | Using 862 US firm-years of CDP data, the study shows that **external stakeholder alliances (inter-organizational)** *and* **internal multi-functional projects (intra-organizational)** each drive significant GHG reductions.|
